@@ -1,0 +1,22 @@
+{
+  "name": "com.solar",
+  "version": "1.0.0",
+  "description": "The Solar Rooftop Analysis Tool is a full-stack web application designed to assess the solar potential of any given rooftop using AI-powered image analysis and financial calculations",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MANUTHERIDER/SolarRooftopAnalysisTool.git"
+  },
+  "keywords": [
+    "pythonsolar"
+  ],
+  "author": "computer-vision",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MANUTHERIDER/SolarRooftopAnalysisTool/issues"
+  },
+  "homepage": "https://github.com/MANUTHERIDER/SolarRooftopAnalysisTool#readme"
+}
